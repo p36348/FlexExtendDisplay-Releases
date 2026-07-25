@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Flex Extend Display Updates</title>
+        <link>https://github.com/p36348/FlexExtendDisplay-Releases</link>
+        <description>Signed macOS updates for Flex Extend Display.</description>
+        <language>en</language>
+    </channel>
+</rss>
